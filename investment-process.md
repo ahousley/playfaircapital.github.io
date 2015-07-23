@@ -1,3 +1,9 @@
+---
+layout: page
+title: Investment Processs
+permalink: /investment-process/
+---
+
 # Size
 
 We write our first cheque between £150k-£250k and have the capacity to follow-on in subsequent financing rounds for companies that outperform.
