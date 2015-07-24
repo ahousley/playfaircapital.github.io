@@ -22,6 +22,3 @@ We are frequently adding new information to this and we encourage you to contrib
 How to use this playbook? 
 
 You can just use this playbook as a source of reference. Alternatively, you can easily clone this startup playbook by forking the project and creating your own so that you can customise it to your own startup - we actually think this is the best way to get the most from it.  
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
