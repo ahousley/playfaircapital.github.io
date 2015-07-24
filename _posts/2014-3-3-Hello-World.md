@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Playfair Capital Startup Operating Manual 
+title: Playfair Capital Startup Playbook 
 ---
 
-The Playfair Capital Startup Opearting Manual is a playbook we created to document our knowledge and best practices for building and scaling startups. It's free for any startup to access, contribute to and clone. If you do want to clone it, we ask that you do so by forking this project as your starting point.   
+The Playfair Capital Startup Playbook is an Opearting Manual we use to document our knowledge and best practices for building and scaling startups. It's free for any startup to access, contribute to and clone. If you do want to clone it, we ask that you do so by forking this project as your starting point.   
 
 So what's included? 
 
