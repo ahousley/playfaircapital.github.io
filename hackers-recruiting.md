@@ -4,8 +4,6 @@ title: The Hacker's Guide to Referral Recruiting
 permalink: /hackers-recruiting/
 ---
 
-# The Hacker's Guide to Referral Recruiting
-
 Do you know where your next 10 employees will come from? The answer is: Referrals. Take this as fact, not opinion. Recruiting through you and your employees’ networks is the only viable way of building your team in the early days (recruiters are expensive and have misaligned incentives; advertising has relatively low ROI, particularly for tech talent; sourcing is time consuming). There is no other sane way to build your team other than through referrals.
 
 Bear the following in mind as well. Referred candidates are consistently rated the highest quality hires, the most productive employees, the strongest culture fit and the lowest cost to recruit. They’re also the most likely to accept offers and the least likely to quit once hired.
